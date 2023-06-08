@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunooborges
 - 👀 I’m interested in movies, series, games, puzzles, solving problems...
 - 🌱 I’m currently learning REACT, TYPESCRIPT, NODEJS
-- 📫 How to reach me [bborgesfilho33@gmail.com]
+- 📫 How to reach me +55 64 98103-9994 [bborgesfilho33@gmail.com]
 
   <div align="center">
     <a href="https://github.com/brunooborges">
@@ -9,6 +9,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooborges&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
+  <br/>
   <div> 
   <a href = "mailto:bborgesfilho33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunooborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
