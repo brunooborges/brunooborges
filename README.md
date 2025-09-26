@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brunooborges
 - 👀 I’m interested in movies, series, games, puzzles, solving problems...
-- 🌱 I’m currently learning REACT, TYPESCRIPT, NODEJS
 - 📫 How to reach me [+55 64 98103-9994] [bborgesfilho33@gmail.com]
 
   <div align="center">
